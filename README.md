@@ -9,19 +9,19 @@ Pets App is a convinient way to keep track of the pets data for Pet Stores where
 
 ## Home Screen,  
 
-<img src="images/petCatalog.jpeg" width=300>      
+<img src="images/petCatalog.jpg" width=300>      
 
 ## Editor Activity
 
-<img src="images/AddPet.jpeg" width=300>    <img src="images/EditPet.jpeg" width=300>    
+<img src="images/AddPet.jpg" width=300>    <img src="images/EditPet.jpg" width=300>    
 
 ## Empty View
 
-<img src="images/EmptyView.jpeg" width=300>  
+<img src="images/EmptyView.jpg" width=300>  
 
 ## Menu Options
 
-<img src="images/MenuOptions.jpeg" width=300>    <img src="images/editMenu.jpeg" width=300>  
+<img src="images/MenuOptions.jpg" width=300>    <img src="images/editMenu.jpeg" width=300>  
 
 ## Contributing
 
